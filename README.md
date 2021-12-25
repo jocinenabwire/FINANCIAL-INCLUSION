@@ -9,10 +9,16 @@ The research problem is to figure out how we can predict which individuals are m
 Google Collab was used.
 ## Technologies Used
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Pandas
+
 Numpy
+
 Seaborn
+
 Matplotlib
+
 Scipy.stats
+
 ## Contact Details
 Contact the author at jocinenabwire@gmail.com
